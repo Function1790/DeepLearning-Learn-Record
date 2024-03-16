@@ -1,0 +1,17 @@
+[기존 교수님]
+https://www.youtube.com/watch?v=jMU9G5WEtBc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=15
+
+[Wiki Docs]
+https://wikidocs.net/35476
+
+[유튭 강의]
+7:45
+https://www.youtube.com/watch?v=VVKvEL9zSqE&list=PLS8gIc2q83OhM0RTktKDitgZGX5dHo7Vs&index=12
+
+[Tensorflow 사용법]
+https://wikidocs.net/192935
+
+https://wikidocs.net/37001
+
+[이미지 강의]
+https://www.youtube.com/watch?v=NPILFFPWOEM&list=PLl1irxoYh2wzOOU9hvJqMYc215wAlxrpp&index=5
